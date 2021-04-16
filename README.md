@@ -1,16 +1,16 @@
 ![Flunch logo](http://i.imgur.com/VbC6KNW.png)
 
 # Description
-Flunch is an open source non-alcohol drink for everyone who’s feeling thirsty.
+Flunch is an open source alcohol drink for everyone who’s feeling thirsty.
 
 # Recipe
-* Water: 7 ½ parts.
+* Water: 7 parts.
 * Blue Curaçao syrup: 3 parts.
 * Pineapple juice: 6 parts.
 * Grapefruit juice: 3 ½ parts.
 * Lemon juice: 1 part.
 * Lemon syrup: ½ part.
-
+* Vodka ½ part.
 Optionally, you can add mint and few slices of lemon and orange into the mix.
 
 # Feedback
